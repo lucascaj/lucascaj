@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <div>
 
-  [![Anurag's GitHub stats](https://github-readme-stats-mtsknn.vercel.app/api?username=lucascaj&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&title_color=0a6df0&text_color=ffffff&icon_color=f0cd0a)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lucascaj&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&title_color=0a6df0&text_color=ffffff&icon_color=f0cd0a)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats-mtsknn.vercel.app/api/top-langs/?username=lucascaj&theme=dracula&title_color=0a6df0&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>

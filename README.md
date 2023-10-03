@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 Atualmente estou estudando Javascript
+- 🌱 Atualmente estou estudando Deep Learning em Python
 
 <div>
 
